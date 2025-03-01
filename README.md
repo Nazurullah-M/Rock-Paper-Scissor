@@ -25,5 +25,6 @@ III. Pseusocode. (Algorithm)
     3. Next is to match the user input and computer input if both are same display tie. Or display who 
        wins.(If else condition and logical operators).
     4. Next use a loop to show how many times user won and how many time computer won.
+    5. Next is to how many times should be the game played. 
 
 
